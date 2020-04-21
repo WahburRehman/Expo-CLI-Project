@@ -96,8 +96,8 @@ export default class App extends React.Component {
         <Image 
           source={{
             uri: "assets\black-pen-near-iphone-and-apple-magic-keyboard-934062.jpg",
-            height: 300,
-            width: 300,
+            height: 200,
+            width: 200,
           }}
         />
 
